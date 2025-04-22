@@ -1,7 +1,8 @@
-## 👋
+## Well 👋 There Bruh!!
 
 # About Me
-[yo_guys](https://github.com/user-attachments/assets/a936297a-cdb4-4e59-ac47-dc159a9d7e00) \
+[YO_Guys!!!] \
+![luffy yo](https://github.com/user-attachments/assets/5903351b-3dbf-434a-b5a8-d2fc9283419a)
 I am passionate about finance and tech. \
    Anything involving finance and tech spikes my interest and if it is also open source then HELL YEAH!!!
 
@@ -19,4 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
