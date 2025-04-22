@@ -1,10 +1,12 @@
 ## Well 👋 There Bruh!!
 
 # About Me
-[YO_Guys!!!] \
-![luffy yo](https://github.com/user-attachments/assets/5903351b-3dbf-434a-b5a8-d2fc9283419a)
+![luffy yo](https://github.com/user-attachments/assets/5903351b-3dbf-434a-b5a8-d2fc9283419a) \
 I am passionate about finance and tech. \
-   Anything involving finance and tech spikes my interest and if it is also open source then HELL YEAH!!!
+Anything involving finance and tech spikes my interest and if it is also open source then HELL YEAH!!! \
+And my hobbies include watching anime and digital art as you can see the reference i gave above there..... \
+You see what did there..... I know right!!! I Slayed that one!!!
+
 
 <!--
 **KENWOLVERINE1/KENWOLVERINE1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
