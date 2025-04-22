@@ -1,4 +1,9 @@
-## YO!!! 👋
+## [luffy yo](https://github.com/user-attachments/assets/a936297a-cdb4-4e59-ac47-dc159a9d7e00) 👋
+
+# About Me
+Yo Guys!!
+I am passionate about finance and tech.
+Anything involving finance and tech spikes my interest and if it is also open source then HELL YEAH!!!
 
 <!--
 **KENWOLVERINE1/KENWOLVERINE1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![luffy yo](https://github.com/user-attachments/assets/a936297a-cdb4-4e59-ac47-dc159a9d7e00)
+
