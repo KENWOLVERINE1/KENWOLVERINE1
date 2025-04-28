@@ -5,7 +5,7 @@
 I am passionate about finance and tech. \
 Anything involving finance and tech spikes my interest and if it is also open source then HELL YEAH!!! \
 And my hobbies include watching anime and digital art as you can see the reference i gave above there..... \
-You see what did there..... I know right!!! I Slayed that one!!!
+You see what i did there..... I know right!!! I Slayed that one!!!
 
 
 <!--
