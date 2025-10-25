@@ -1,11 +1,11 @@
-## Well 👋 There Bruh!!
+## Well 👋 There !!
 
 # About Me
 ![luffy yo](https://github.com/user-attachments/assets/5903351b-3dbf-434a-b5a8-d2fc9283419a) \
-I am passionate about finance and tech. \
-Anything involving finance and tech spikes my interest and if it is also open source then HELL YEAH!!! \
+I am passionate about tech and finance. \
+Anything involving tech and finance spikes my interest and if it is both then i'm all in!!! \
 And my hobbies include watching anime and digital art as you can see the reference i gave above there..... \
-You see what i did there..... I know right!!! I Slayed that one!!!
+I'm glad to be at your presence and hope to connect well!
 
 
 <!--
